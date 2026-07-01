@@ -1,0 +1,12 @@
+# Little Lemon Restaurant API
+
+Это проект API для ресторана Little Lemon. 
+Проект управляет меню и бронированием столиков.
+
+## Эндпоинты (ссылки для теста):
+- /api/menu/
+- /api/bookings/
+- /api/registration/
+
+## Как использовать:
+Этот проект использует Django REST Framework и подключен к базе данных MySQL.
